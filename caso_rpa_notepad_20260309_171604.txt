@@ -1,0 +1,6 @@
+toGUI
+Data e hora: 2026-03-09 17:09:45
+Estudo de caso RPA - Windows + PyAutoGUI
+Data: 2026-03-09 17:15:13
+Estudo de caso RPA - Windows + PyAutoGUI
+Data e hora: 2026-03-09 17:15:59
